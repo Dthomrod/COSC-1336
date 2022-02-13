@@ -1,0 +1,8 @@
+Name = input('Enter your Name? ')
+Address = input('Enter your Address with City, State, and Zip code? ')
+Phone_Number = input('Enter your Phone Number? ')
+College_Major = input ('Enter your College Major? ')
+print('Name:', Name)
+print('Address:', Address)
+print('Phone Number:', Phone_Number)
+print('College Major:', College_Major)
